@@ -1,0 +1,4 @@
+interface:
+  display_name: "Rill Metrics View"
+  short_description: "Build and review metrics view YAML"
+  default_prompt: "Use metrics-view-specific Rill rules to create or review metrics views and cite rule sources."

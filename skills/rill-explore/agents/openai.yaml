@@ -1,0 +1,4 @@
+interface:
+  display_name: "Rill Explore"
+  short_description: "Build and review explore dashboard YAML"
+  default_prompt: "Use explore-specific Rill rules to create or review explore dashboards and cite rule sources."

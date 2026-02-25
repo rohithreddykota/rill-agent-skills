@@ -1,0 +1,4 @@
+interface:
+  display_name: "Rill Model"
+  short_description: "Build and review Rill model SQL/YAML"
+  default_prompt: "Use model-specific Rill rules to create or review model resources and cite rule sources."

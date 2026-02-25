@@ -1,0 +1,4 @@
+interface:
+  display_name: "Rill ClickHouse"
+  short_description: "Review/refactor or create ClickHouse-targeted Rill models from source inputs"
+  default_prompt: "Orchestrate rilldata and clickhouse-best-practices to review, refactor, or create ClickHouse-targeted Rill models with checklist-first inputs, runtime diagnostics, approval-gated planning, and rule-cited recommendations."

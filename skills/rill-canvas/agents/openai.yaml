@@ -1,0 +1,4 @@
+interface:
+  display_name: "Rill Canvas"
+  short_description: "Build and review canvas dashboard YAML"
+  default_prompt: "Use canvas-specific Rill rules to create or review canvas dashboards/components and cite rule sources."

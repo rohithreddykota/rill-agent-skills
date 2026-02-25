@@ -1,0 +1,11 @@
+{
+  "version": "0.1.0",
+  "organization": "Rill Data",
+  "date": "February 2026",
+  "abstract": "Comprehensive Rill guidance for AI agents. Includes runtime development instructions and complete project-file references for connectors, models, metrics views, dashboards, themes, sources, APIs, alerts, reports, and project configuration.",
+  "references": [
+    "https://docs.rilldata.com/reference/project-files",
+    "https://github.com/rilldata/rill/tree/main/runtime/ai/instructions/data",
+    "https://github.com/rilldata/rill/tree/main/docs/docs/reference/project-files"
+  ]
+}

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Rill Connector"
+  short_description: "Build and review Rill connector YAML"
+  default_prompt: "Use connector-specific Rill rules to create or review connector resources and cite rule sources."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Rill"
+  short_description: "Develop, review, and explain Rill project files with source-backed guidance"
+  default_prompt: "Use Rill guidance to create, review, or explain project files, citing relevant rule files and source URLs."
